@@ -1,0 +1,17 @@
+# Site settings
+title: 200 Scholes St Brooklyn NY - Reviews and More
+email: 200Scholes@mailinator.com
+description: > # this means to ignore newlines until "baseurl:"
+  Everything you need to know about 200 Scholes St Brooklyn NY 11206. Real reviews from real tenants.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://200scholes.com" # the base hostname & protocol for your site
+twitter_username: 200Scholes
+facebook_username: 200Scholes
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+kramdown:
+  parse_span_html: true
+  parse_block_html: true
